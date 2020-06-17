@@ -1,6 +1,6 @@
 h1, p {
   color: white;
-  font-family: helvetica;
+  font-family: "Times New Roman", Times, serif;
 }
 h1 {
   font-size: 4em;
@@ -16,7 +16,7 @@ body {
   text-align: center;
 }
 hr {
-  width: 1000px;
+  width: 800px;
 }
 a, i {
   font-size: 4em;
