@@ -1,11 +1,8 @@
 function convert()
 {
-let bruh = false
 let celsius = document.getElementById('tc').value
 if (celsius == 'si')
-{
-  bruh = true
-}
+{let bruh = true}
 celsius = parseFloat(document.getElementById('tc').value);
 let fahrenheit = ((celsius * 1.8) + 32).toFixed(2);
 let kelvin = (celsius + 273.15).toFixed(2);
