@@ -1,5 +1,5 @@
 h1, p {
-  color: #282626;
+  color: white;
   font-family: helvetica;
 }
 h1 {
@@ -20,7 +20,7 @@ hr {
 }
 a, i {
   font-size: 4em;
-  color: #282626;
+  color: white;
   margin: 20px;
 }
 button {
