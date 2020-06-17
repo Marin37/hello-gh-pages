@@ -1,5 +1,5 @@
 h1, p {
-  color: white;
+  color: orange;
   font-family: helvetica;
 }
 h1 {
@@ -20,7 +20,7 @@ hr {
 }
 a, i {
   font-size: 4em;
-  color: white;
+  color: orange;
   margin: 20px;
 }
 button {
@@ -35,8 +35,8 @@ button {
 }
 button:active {
   background: #FF7311;
-  -webkit-box-shadow: inset 0px 0px 5px #E34809;
-    -moz-box-shadow: inset 0px 0px 5px #E34809;
-    box-shadow: inset 0px 0px 5px #E34809;
+  -webkit-box-shadow: inset 0px 0px 5px #D44308;
+    -moz-box-shadow: inset 0px 0px 5px #D44308;
+    box-shadow: inset 0px 0px 5px #D44308;
   outline: none;
 }
