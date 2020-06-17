@@ -12,7 +12,7 @@ p, button, input {
   font-size: 2em;
 }
 body {
-  background-color: #FF7311;
+  background-color: black;
   text-align: center;
 }
 hr {
@@ -34,7 +34,7 @@ button {
   margin: 20px;
 }
 button:active {
-  background: #FF7311;
+  background: #D44308;
   -webkit-box-shadow: inset 0px 0px 5px #D44308;
     -moz-box-shadow: inset 0px 0px 5px #D44308;
     box-shadow: inset 0px 0px 5px #D44308;
