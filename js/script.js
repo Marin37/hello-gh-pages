@@ -1,7 +1,7 @@
 function convert()
 {
 let celsius = parseFloat(document.getElementById('tc').value);
-if (celsius == NaN)
+if (celsius == 'NaN')
 {
   document.getElementById('tk').innerHTML = 'FLACO SI NO PONES UN NUMERO'
   document.getElementById('tf').innerHTML = 'NO PUEDO HACER NADA PELELE'
