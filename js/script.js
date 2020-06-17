@@ -1,6 +1,6 @@
 function convert()
 {
-let bruh == false
+let bruh = false
 let celsius = document.getElementById('tc').value
 if (celsius == 'si')
 {
