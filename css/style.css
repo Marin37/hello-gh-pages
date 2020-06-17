@@ -1,6 +1,6 @@
 h1, p {
   color: white;
-  font-family: sans-serif;
+  font-family: helvetica;
 }
 h1 {
   font-size: 4em;
@@ -24,7 +24,7 @@ a, i {
   margin: 20px;
 }
 button {
-  background: #7b39cc;
+  background: #FF7311;
   color: white;
   padding: 15px;
   border: 0px;
@@ -34,9 +34,9 @@ button {
   margin: 20px;
 }
 button:active {
-  background: #5e28a1;
-  -webkit-box-shadow: inset 0px 0px 5px #451c78;
-    -moz-box-shadow: inset 0px 0px 5px #451c78;
-    box-shadow: inset 0px 0px 5px #451c78;
+  background: #FF7311;
+  -webkit-box-shadow: inset 0px 0px 5px #E34809;
+    -moz-box-shadow: inset 0px 0px 5px #E34809;
+    box-shadow: inset 0px 0px 5px #E34809;
   outline: none;
 }
