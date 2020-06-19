@@ -1,9 +1,12 @@
 h1, p , h5{
   color: white;
-  font-family: "Comic Sans MS", cursive, serif;
+  font-family: "Georgia", cursive, serif;
 }
 h1 {
   font-size: 4em;
+}
+h5 {
+  font-size: 1em;
 }
 input {
 padding: 15px;
