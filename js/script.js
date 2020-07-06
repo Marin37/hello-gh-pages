@@ -64,9 +64,7 @@ document.getElementById('tk').innerHTML = kelvin;
 
 function convertF()
 {
-  let fahrenheit = document.getElementById('tf2').value
-  fahrenheit = parseFloat(document.getElementById('tf2').value);
-
+let fahrenheit = parseFloat(document.getElementById('tf').value);
 let celsius = ((fahrenheit - 32) / 1.8).toFixed(2);
 let kelvin = (celsius + 273.15).toFixed(2);
 if (isNaN(celsius) || isNaN(kelvin))
@@ -74,6 +72,6 @@ if (isNaN(celsius) || isNaN(kelvin))
   fahrenheit = 'FLACO SI NO PONES UN NUMERO';
   kelvin = 'NO PUEDO HACER NADA';
 };
-document.getElementById('tc2').innerHTML = celsius;
-document.getElementById('tk2').innerHTML = kelvin;
+document.getElementById('tc').innerHTML = celsius;
+document.getElementById('tk').innerHTML = kelvin;
 }
