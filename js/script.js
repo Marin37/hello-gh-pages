@@ -35,7 +35,7 @@ if (isNaN(fahrenheit) || isNaN(kelvin))
   kelvin = 'NO PUEDO HACER NADA';
 };
 
-//EASTER EGGS
+//EASTER EGGS... creo
 if (bruh1 == true) {
   fahrenheit = 'si @jeico704 ';
   kelvin = 'si @angel2112 ';
