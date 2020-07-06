@@ -62,7 +62,7 @@ document.getElementById('tf').innerHTML = fahrenheit;
 document.getElementById('tk').innerHTML = kelvin;
 }
 
-function convertF()
+function convertC()
 {
 let bruh1 = false
 let bruh2 = false
