@@ -1,4 +1,4 @@
-function convert()
+function convertC()
 {
 let bruh1 = false
 let bruh2 = false
@@ -60,4 +60,9 @@ if (bruh5 == true) {
 //PARA QUE ANDE NORMAL
 document.getElementById('tf').innerHTML = fahrenheit;
 document.getElementById('tk').innerHTML = kelvin;
+}
+
+function convertF()
+{
+
 }
