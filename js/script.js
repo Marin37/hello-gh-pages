@@ -1,4 +1,4 @@
-function convertC()
+function convert()
 {
 let bruh1 = false
 let bruh2 = false
@@ -61,6 +61,7 @@ if (bruh5 == true) {
 document.getElementById('tf').innerHTML = fahrenheit;
 document.getElementById('tk').innerHTML = kelvin;
 }
+<<<<<<< HEAD
 
 function convertF()
 {
@@ -149,3 +150,5 @@ document.getElementById('tc2').innerHTML = celsius;
 document.getElementById('tk2').innerHTML = kelvin;
 }
 */
+=======
+>>>>>>> parent of d02c497... metiendo fahrenheit 1
